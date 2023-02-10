@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author jabba
+ *
+ */
+module HotelManagementSystem {
+}
